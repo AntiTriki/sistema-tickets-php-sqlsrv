@@ -64,7 +64,19 @@ input:-webkit-autofill {
   </div>
     <div style="height: 19em; background-color: #ffffff" class="row">
 
-        <div style="height: 5em;background-color: #95eef6" class="col-md-12" ></div>
+<!--        <div style="height: 5em;background-color: #95eef6" class="col-md-12" >-->
+        <div style="height: 5em;background-color: #ffffff" class="col-md-12" >
+            <MARQUEE onmouseover=this.stop()
+                     onmouseout=this.start() scrollAmount=8
+                     scrollDelay=100 direction=right height=auto width=auto>
+
+
+                <div style="font-size:350% " id="publico" >
+                    Mensajes dinamico
+                </div>
+            </MARQUEE>
+
+        </div>
 
 
 
