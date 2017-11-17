@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Varela Round";
+    src: url(varela.otf);
+    font-weight: bold;
+}
+body{
+    font-family: "Varela Round";
+    src: url(varela.otf);
+    font-weight: bold;
+}

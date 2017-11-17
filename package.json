@@ -1,0 +1,25 @@
+{
+  "name": "sistema",
+  "version": "1.0.0",
+  "description": "hola",
+  "main": "index.js",
+  "dependencies": {
+    "videojs-playlist": "^4.0.1"
+  },
+  "devDependencies": {
+    "video.js": "^6.2.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nilds",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntiTriki/sistema.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AntiTriki/sistema/issues"
+  },
+  "homepage": "https://github.com/AntiTriki/sistema#readme"
+}

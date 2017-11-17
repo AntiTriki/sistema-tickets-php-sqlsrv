@@ -1,0 +1,60 @@
+!   xampp.rar: Cannot open C:\xampp\apache\logs\access.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\apache\logs\cardiomarket.com.bo-error.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\apache\logs\error.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\apache\logs\hpmedical.com.bo-error.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\apache\logs\importadorafernando.com.bo-error.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\apache\logs\oclock.com.bo-error.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\apache\logs\portal.com.bo-error.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\apache\logs\portalAntiguo.com.bo-error.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\apache\logs\shaolin.com.bo-error.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\apache\logs\ssl_request.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\apache\logs\test.hpmedical.com.bo-error.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\apache\logs\zentyal.com.bo-error.log
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\htdocs\portalAntiguo\bk\11\catalogos\herramienta_cat\genera\preliminar\E__Biblioteca_Catalogos_Catalogos_Huntleigh_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetretica-1.jpg
+!   El sistema no puede hallar la ruta especificada.
+!   xampp.rar: Cannot open C:\xampp\htdocs\portalAntiguo\bk\11\catalogos\herramienta_cat\genera\preliminar\E__Biblioteca_Catalogos_Catalogos_Huntleigh_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetretica-2.jpg
+!   El sistema no puede hallar la ruta especificada.
+!   xampp.rar: Cannot open C:\xampp\htdocs\portalAntiguo\bk\11\catalogos\herramienta_cat\genera\preliminar\E__Biblioteca_Catalogos_Catalogos_Huntleigh_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetretica-3.jpg
+!   El sistema no puede hallar la ruta especificada.
+!   xampp.rar: Cannot open C:\xampp\htdocs\portalAntiguo\bk\11\catalogos\herramienta_cat\genera\preliminar\E__Biblioteca_Catalogos_Catalogos_Huntleigh_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetretica-4.jpg
+!   El sistema no puede hallar la ruta especificada.
+!   xampp.rar: Cannot open C:\xampp\htdocs\portalAntiguo\bk\11\catalogos\herramienta_cat\genera\preliminar\E__Biblioteca_Catalogos_Catalogos_Huntleigh_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetretica-5.jpg
+!   El sistema no puede hallar la ruta especificada.
+!   xampp.rar: Cannot open C:\xampp\htdocs\portalAntiguo\bk\11\catalogos\herramienta_cat\genera\preliminar\E__Biblioteca_Catalogos_Catalogos_Huntleigh_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetrica_Gama_de_unidades_de_supervision_Obstetretica-6.jpg
+!   El sistema no puede hallar la ruta especificada.
+!   xampp.rar: Cannot open C:\xampp\mysql\data\ibdata1
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\mysql\data\ib_logfile0
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\mysql\data\ib_logfile1
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\mysql\data\mysql.err
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\tmp\ib168.tmp
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\tmp\ib169.tmp
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\tmp\ib16B.tmp
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\tmp\ib16C.tmp
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\tmp\ib16E.tmp
+!   El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+!   xampp.rar: Cannot open C:\xampp\tmp\sess_24b2tilndlu99llevr6blf5bd6
+!   El sistema no puede hallar el archivo especificado.
+!   xampp.rar: Cannot open C:\xampp\tmp\sess_j868ms8kd310118rvhj5l8l0j1
+!   El sistema no puede hallar el archivo especificado.
+!   xampp.rar: Cannot open C:\xampp\tmp\sess_m0o3gc3t89k9k6jcc4vg69hna0
+!   El sistema no puede hallar el archivo especificado.
