@@ -46,7 +46,7 @@ input:-webkit-autofill {
 }
 </style>
 </head>
-<body style="background-color: #286090">
+<body onload="startTime()" style="background-color: #286090">
 <div class="container-fluid" >
 <div style="height: 35em" class="row" >
     <div class="col-md-2"></div>
@@ -75,7 +75,10 @@ input:-webkit-autofill {
         <div id="armado" style=" " class="col-lg-9" >
 
     </div>
-            <div style=" background-color: #ee4cf6" class="col-lg-3" >
+            <div style=" background-color: #ffffff" class="col-lg-3" >
+                <img src="logo.png"  class="img-rounded img-responsive" style="height: 155px" alt="Cinque Terre">
+                <div style="font-size:190% " id="txt"></div>
+
             </div>
     </div>
 </div>
@@ -135,8 +138,8 @@ input:-webkit-autofill {
         });
     }, 3000);
 
-    //var player = videojs('#my-video', { "controls": true, "autoplay": true, "preload": "auto","autoHeight": "16:9" });
-    var player = videojs('#my-video', { "controls": true,  "preload": "auto","autoHeight": "16:9" });
+    var player = videojs('#my-video', { "controls": true, "autoplay": true, "preload": "auto","autoHeight": "16:9" });
+   // var player = videojs('#my-video', { "controls": true,  "preload": "auto","autoHeight": "16:9" });
 
     player.playlist([{
         sources: [{
@@ -158,7 +161,25 @@ input:-webkit-autofill {
 
     player.playlist.repeat();
     player.playlist.autoadvance(0);
-
+    function startTime() {
+        var today = new Date();
+        var dd = today.getDate();
+        var mm = today.getMonth()+1; //January is 0!
+        var yyyy = today.getFullYear();
+        var h = today.getHours();
+        var m = today.getMinutes();
+        var s = today.getSeconds();
+        h = checkTime(h);
+        m = checkTime(m);
+        s = checkTime(s);
+        document.getElementById('txt').innerHTML =
+            h + ":" + m + ":" + s+" "+dd + '/' + mm + '/' + yyyy;
+        var t = setTimeout(startTime, 500);
+    }
+    function checkTime(i) {
+        if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+        return i;
+    }
 
 </script>
 

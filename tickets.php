@@ -108,12 +108,12 @@ input:-webkit-autofill {
                         alertify.success('Su ticket es '+data).delay(3);
 
                         var ventimp=window.open(' ','popimpr',"width=1, height=1");
-                        ventimp.document.write('<link rel="stylesheet" href="css/bootstrap.min.css"><link rel="stylesheet" href="css/font-awesome.min.css"> <link rel="stylesheet" href="css/font.css"><strong style ="font-size: 90%;"> <h2> HP MEDICAL SRL</h2> <br><br> Ticket: <h2>'+data+'</h2><br>'+time+' '+today+' </strong>');
+                        ventimp.document.write('<link rel="stylesheet" href="css/bootstrap.min.css"><link rel="stylesheet" href="css/font-awesome.min.css"> <link rel="stylesheet" href="css/font.css"><div class="text-center" style ="font-size: 120%;" >  HP MEDICAL SRL <br> Ticket: <br><font size="150%">'+data+'</font><br>'+time+' '+today+' </div>');
 //ventimpdocument.style.visibility="hidden";
 
-                        ventimp.document.close();
-                        ventimp.print(true);
-                        ventimp.close();
+//                        ventimp.document.close();
+//                        ventimp.print(true);
+//                        ventimp.close();
                     }
                 });
 
